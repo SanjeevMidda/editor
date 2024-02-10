@@ -1,0 +1,22 @@
+*{
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  margin: 0px;
+}
+
+.App{
+  height: 100vh;
+}
+
+input{
+  border: none;
+  width: 100vw;
+  text-align: top;
+  font-size: 20px;
+  outline: none;
+}
+
+textarea{
+  outline: none;
+  margin-top: 10px;
+}
